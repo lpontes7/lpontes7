@@ -4,18 +4,20 @@
 <a href="https://www.linkedin.com/in/lpontes7/">
   <img align="left" alt="Lucas LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/lpontes7/">
   <img align="right" alt="Lucas Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
-<br/>
-<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<br />
+<img align="le" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 <br/>
 
+<div>
+ <p>
 - 💼 I’m pursuing a Bachelor's degree in Information system.
 - 🌱 I’m currently learning Kotlin.
+</h4>
+</div>
 
 **Languages and Tools:**  
 
