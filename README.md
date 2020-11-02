@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Lucas 
 I am a backend developer, currently developing APIs using TypeScript.
 
-<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/pusheencode.gif"/>
 
 
 - 💼 I’m pursuing a Bachelor's degree in Information system.
