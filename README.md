@@ -8,9 +8,7 @@
   <img align="right" alt="Lucas Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
 <img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-<br/>
 
 - 💼 I’m pursuing a Bachelor's degree in Information system.
 - 🌱 I’m currently learning Kotlin.
