@@ -17,6 +17,13 @@ I am a developer, currently developing APIs using NodeJs and Apps mobile to Andr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
+<a href="https://github.com/lpontes7">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpontes7&layout=compact&langs_count=7&theme=highcontrast"/>
+</a>
+  
+
 <br />
 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/lpontes7/">
