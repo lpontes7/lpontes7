@@ -23,12 +23,8 @@ I am a developer, currently developing APIs using NodeJs and Apps mobile to Andr
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpontes7&layout=compact&langs_count=7&theme=highcontrast"/>
 </a>
   
+  ##
 
-<br />
-📫 How to reach me: 
-<a href="https://www.linkedin.com/in/lpontes7/">
-  <img alt="Lucas LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/lpontes7/">
-  <img alt="Lucas Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="https://www.linkedin.com/in/lpontes7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/lpontes7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
