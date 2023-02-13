@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lucas 
-I am a developer, currently developing APIs using NodeJs and Apps mobile to Android with Koltin
+I am a developer, currently developing APIs using NodeJs
 
 <img align="right" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/pusheencode.gif"/>
 
