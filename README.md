@@ -16,7 +16,6 @@ I am a developer, currently developing APIs using NodeJs
 
 
 <a href="https://github.com/lpontes7">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpontes7&layout=compact&langs_count=7&theme=dracula"/>
 </a>
   
   ##
