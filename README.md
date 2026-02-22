@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lucas 
-I am a developer, currently developing APIs using NodeJs
+Backend Developer specialized in Node.js, TypeScript and distributed systems.
 
 <img align="right" src="https://raw.githubusercontent.com/anathayna/anathayna/master/assets/pusheencode.gif"/>
 
